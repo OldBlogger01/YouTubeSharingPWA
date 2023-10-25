@@ -1,0 +1,42 @@
+{
+  "short_name": "YouTubeMusicShare",
+  "name": "YouTube, Videos and Music Sharing",
+  "icons": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/YouTubeSharingPWA/main/android-launchericon-192-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/YouTubeSharingPWA/main/android-launchericon-512-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "https://youtubeandmusicsharing.blogspot.com/",
+  "background_color": "#222325",
+  "display": "standalone",
+  "scope": "https://youtubeandmusicsharing.blogspot.com/
+  "theme_color": "#222325",
+  "description": "A Video Blog (Vlog) for the promotion of YouTube, Music and Music Videos, Artists Pages, News, Unlisted videos and Official Download and Buy Links",
+  "id": "YouTubeMusicShare",
+  "lang": "en",
+  "orientation": "landscape",
+  "display_override": [
+    "standalone",
+    "browser",
+    "window-controls-overlay"
+  ],
+  "screenshots": [
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/YouTubeSharingPWA/main/Desktop-Image.png",
+      "sizes": "1920x1080",
+      "type": "image/png"
+    },
+    {
+      "src": "https://raw.githubusercontent.com/OldBlogger01/YouTubeSharingPWA/main/Mobile-Image.png",
+      "sizes": "408x825",
+      "type": "image/png"
+    }
+  ]
+}
